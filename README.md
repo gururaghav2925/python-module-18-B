@@ -1,5 +1,4 @@
-# Title
-Kruskal's Algorithm for Minimum Spanning Tree (MST) using Python
+# Kruskal's Algorithm for Minimum Spanning Tree (MST) using Python
 
 # Aim
 To implement Kruskal's algorithm in Python for finding the Minimum Spanning Tree (MST) of a connected, undirected, and weighted graph.
